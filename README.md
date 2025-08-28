@@ -14,7 +14,7 @@ Eg. `ACL-20xx` **Title** [paper] [code]
 
 - `Arxiv-2025` **WebSailor: Navigating Super-human Reasoning for Web Agent**    [paper](https://arxiv.org/pdf/2507.02592) [code](https://github.com/Alibaba-NLP/WebAgent) 
 
-- `Arxiv-2025` **WebDancer: Towards Autonomous Information Seeking Agency **   [paper](https://arxiv.org/pdf/2505.22648) [code](https://github.com/Alibaba-NLP/WebAgent) 
+- `Arxiv-2025` **WebDancer: Towards Autonomous Information Seeking Agency**   [paper](https://arxiv.org/pdf/2505.22648) [code](https://github.com/Alibaba-NLP/WebAgent) 
 
 - `ACL-2025` **WebWalker: Benchmarking LLMs in Web Traversal**
 
