@@ -16,7 +16,7 @@ Eg. `ACL-20xx` **Title** [paper] [code]
 
   [paper](https://arxiv.org/pdf/2507.02592) [code](https://github.com/Alibaba-NLP/WebAgent) 
 
-- `Arxiv-2025` **WebDancer: Towards Autonomous Information Seeking Agency **   
+- `Arxiv-2025` **WebDancer: Towards Autonomous Information Seeking Agency**   
 
   [paper](https://arxiv.org/pdf/2505.22648) [code](https://github.com/Alibaba-NLP/WebAgent) 
 
@@ -28,7 +28,9 @@ Eg. `ACL-20xx` **Title** [paper] [code]
 
 ## Benchmarks
 
-- `Arxiv-2025` **BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent** [paper][https://arxiv.org/pdf/2508.06600] [code][https://texttron.github.io/BrowseComp-Plus/]
+- `Arxiv-2025` **BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent** 
+
+  [paper][https://arxiv.org/pdf/2508.06600] [code][https://texttron.github.io/BrowseComp-Plus/]
 
 
 
