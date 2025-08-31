@@ -31,6 +31,10 @@ Eg. `ACL-20xx` **Title** [paper] [code]
 - `Arxiv-2025` **BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent** 
 
   [paper][https://arxiv.org/pdf/2508.06600] [code][https://texttron.github.io/BrowseComp-Plus/]
+  
+- `Arxiv-2025` **WideSearch: Benchmarking Agentic Broad Info-Seeking**
+
+  [paper](https://arxiv.org/pdf/2508.07999) [code](https://widesearch-seed.github.io/) 
 
 
 
